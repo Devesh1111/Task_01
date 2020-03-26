@@ -1,0 +1,11 @@
+<!doctype html>
+<html>
+<head>
+<title>Just for checking!!</title>
+<meta name="_lol_" content="_lol_">
+<meta name="lol" content="First one">
+</head>
+<body>
+This is just for leanring...
+</body>
+</html>
